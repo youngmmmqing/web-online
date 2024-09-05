@@ -1,0 +1,22 @@
+{
+  "name": "young",
+  "version": "1.0.0",
+  "description": "young",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngmmmqing/web-online.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngmmmqing/web-online/issues"
+  },
+  "homepage": "https://github.com/youngmmmqing/web-online#readme"
+}
